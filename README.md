@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working as a **Junior Fullstack Web Developer**
 
-- 🌱 I’m currently learning **React JS in Coderhouse**
+- 🌱 I’m currently learning **Backend in Coderhouse**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iwill88/](https://github.com/iwill88/)
 
-- 💬 Ask me about **HTML, CSS, SAAS y JS**
+- 💬 Ask me about **HTML, CSS, SAAS, JS & ReactJs**
 
 - 📫 How to reach me **alex88_upt@hotmail.com**
 
